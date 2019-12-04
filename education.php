@@ -1,7 +1,7 @@
 <?php include ('includes/left.php'); ?>
 <div class="education"
         style="background: url('img/sample.jpg');background-attachment: fixed;background-size: cover;background-position: center;background-repeat: no-repeat;">
-        <div style="background-color: #666666b0;padding: 8em 2em;">
+        <div style="background-color: #000000b0;padding: 8em 2em;">
           <div class="education-title">
             <h1 class="h1-responsive white-text" style="text-shadow: 1px 1px 1px #fff;font-weight: 400">EDUCATION</h1>
             <hr style="width:100px;border: 1px solid #fff">
