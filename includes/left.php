@@ -61,55 +61,13 @@
         <a href="#"><i class="fab fa-instagram p-2" style="font-size: 24px;color:#222"></i></a>
         <a href="#"><i class="fab fa-github p-2" style="font-size: 24px;color:#222"></i></a>
       </div>
-      <!-- Grid row -->
-<div class="">
 
-  <nav class="nav flex-column dark lighten-3 py-4 mb-r font-weight-bold z-depth-0">
-    <a class="nav-link active dark-grey-text" href="technologies.php">Technologies</a>
-    <a class="nav-link dark-grey-text" href="education.php">Education</a>
-    <a class="nav-link dark-grey-text" href="portfolio.php">Portfolio</a>
-    <a class="nav-link dark-grey-text" href="experience.php">Experience</a>
-  </nav>
-
-</div>
-<!-- Grid row -->
-      <div class="technologies-progress-bar">
-        <h5 class="h5-responsive pl-3 mt-4"><b>HTML5</b><i class="fab fa-html5 ml-2"
-            style="font-size: 20px;color:#222"></i></h5>
-        <div class="progress md-progress mx-3" style="height: 20px">
-          <div class="progress-bar" role="progressbar" style="width: 90%; background: #F16529; height: 20px"
-            aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">90%</div>
-        </div>
-        <h5 class="h5-responsive pl-3 mt-3"><b>CSS3</b><i class="fab fa-css3 ml-2"
-            style="font-size: 20px;color:#222"></i></h5>
-        <div class="progress md-progress mx-3" style="height: 20px">
-          <div class="progress-bar" role="progressbar" style="width: 85%; background: #264de4; height: 20px"
-            aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">85%</div>
-        </div>
-        <h5 class="h5-responsive pl-3 mt-3"><b>JavaScript</b><i class="fab fa-js ml-2"
-            style="font-size: 20px;color:#222"></i></h5>
-        <div class="progress md-progress mx-3" style="height: 20px">
-          <div class="progress-bar" role="progressbar" style="width: 70%; background: #323330; height: 20px"
-            aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">70%</div>
-        </div>
-        <h5 class="h5-responsive pl-3 mt-3"><b>Bootstrap</b><i class="fab fa-bootstrap ml-2"
-            style="font-size: 20px;color:#222"></i></h5>
-        <div class="progress md-progress mx-3" style="height: 20px">
-          <div class="progress-bar" role="progressbar" style="width: 85%; background: #080135; height: 20px"
-            aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">85%</div>
-        </div>
-        <h5 class="h5-responsive pl-3 mt-3"><b>PHP</b><i class="fab fa-php ml-2" style="font-size: 20px;color:#222"></i>
-        </h5>
-        <div class="progress md-progress mx-3" style="height: 20px">
-          <div class="progress-bar" role="progressbar" style="width: 70%; background: #787CB5; height: 20px"
-            aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">70%</div>
-        </div>
-        <h5 class="h5-responsive pl-3 mt-3"><b>WordPress</b><i class="fab fa-wordpress ml-2"
-            style="font-size: 20px;color:#222"></i></h5>
-        <div class="progress md-progress mx-3" style="height: 20px">
-          <div class="progress-bar" role="progressbar" style="width: 85%; background: #21759b; height: 20px"
-            aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">85%</div>
-        </div>
-      </div>
+      <nav class="nav flex-column dark lighten-3 py-4 mb-r font-weight-bold z-depth-0">
+        <a class="nav-link active dark-grey-text" href="technologies.php">Technologies</a>
+        <a class="nav-link dark-grey-text" href="education.php">Education</a>
+        <a class="nav-link dark-grey-text" href="portfolio.php">Portfolio</a>
+        <a class="nav-link dark-grey-text" href="experience.php">Experience</a>
+      </nav>
+      
     </div>
     <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 pr-0 pl-0">
